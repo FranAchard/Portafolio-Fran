@@ -1,0 +1,138 @@
+body{
+    background-image:url("foto/dia2.jpg");
+    height:1500px;
+}
+.Titulo{
+    font-family:'Roboto Condensed';
+    font-size: 80px;
+    position: relative;
+    left:300px;
+    color:black;
+}
+.Menu{
+    font-size:25px;
+    position: relative;
+    left: 240px; 
+}
+li{
+    display: inline-block;
+    list-style:none
+}
+button{
+    width:200px;
+    height:100px;
+    cursor:pointer;
+    border:none;
+    font-size:20px;
+}
+.Menu1{
+border:1px solid green;
+color:green;
+}
+.Menu1:hover{
+    background-color:green;
+    color:white;
+}
+.Menu2{
+    border:1px solid blue;
+    color:blue;
+}
+.Menu2:hover{
+    background-color: blue;
+    color:white;
+}
+.Menu3{
+    border:1px solid red;
+    color:red;
+}
+.Menu3:hover{
+    background-color:red;
+    color:white;
+}
+section{
+    border:black 1px solid;
+    width:1200px;
+    height:1000px;
+}
+aside{
+    border:1px solid black;
+    width:300px;
+    height:1000px;
+    position: relative;
+    bottom:1000px;
+    left:1210px; 
+}
+footer{
+    position: relative;
+    height:500px;
+    bottom:1000px;
+    width: auto;
+    border:1px solid black;
+    background:#343434;
+    color:white;
+}
+.logo0{
+    width:  260px;
+    height: 150px;
+    position: relative;
+    
+}
+.logo1{
+    width:  260px;
+    height: 150px;
+    position:relative;
+    
+}
+.logo2{
+    width:  260px;
+    height: 150px;
+    position:relative;
+    
+}
+.logo3{
+    width:  260px;
+    height: 150px;
+    position:relative;
+    
+}
+.logo4{
+    width:  260px;
+    height: 150px;
+    position:relative;
+    
+}
+.logo5{
+    width:  260px;
+    height: 150px;
+    position:relative;
+    
+}
+.logo6{
+    width:  260px;
+    height: 150px;
+    position: relative;
+    
+}
+.logo7{ 
+    width:  260px;
+    height: 150px;
+    position: relative;
+    
+}
+.logo8{
+    width:  260px;
+    height: 150px;
+    position: relative;
+    
+}
+.logo9{
+    width:  260px;
+    height: 150px;
+    position: relative;
+    
+}
+.logo10{
+    width:  260px;
+    height: 150px;
+    position: relative;
+}
