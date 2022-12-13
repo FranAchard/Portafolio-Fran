@@ -1,6 +1,6 @@
 body{
     background-image:url("foto/dia2.jpg");
-    height:1500px;
+    height:1000px;
 }
 .Titulo{
     font-family:'Roboto Condensed';
@@ -64,7 +64,7 @@ aside{
 }
 footer{
     position: relative;
-    height:500px;
+    height:200px;
     bottom:1000px;
     width: auto;
     border:1px solid black;
@@ -75,64 +75,71 @@ footer{
     width:  260px;
     height: 150px;
     position: relative;
-    
+    right:70px;
 }
 .logo1{
     width:  260px;
     height: 150px;
     position:relative;
-    
+    right:200px;
 }
 .logo2{
     width:  260px;
     height: 150px;
     position:relative;
-    
+    right:330px;
 }
 .logo3{
     width:  260px;
     height: 150px;
     position:relative;
-    
+    right:460px;
 }
 .logo4{
     width:  260px;
     height: 150px;
     position:relative;
-    
+    right:600px;
 }
 .logo5{
     width:  260px;
     height: 150px;
     position:relative;
-    
+    bottom:150px;
+    left:600px;
 }
 .logo6{
     width:  260px;
     height: 150px;
     position: relative;
-    
+    bottom:150px;
+    left:480px;
 }
 .logo7{ 
     width:  260px;
     height: 150px;
     position: relative;
-    
+    bottom:150px;
+    left:350px;
 }
 .logo8{
     width:  260px;
     height: 150px;
     position: relative;
-    
+    bottom:150px;
+    left:220px;
 }
 .logo9{
     width:  260px;
     height: 150px;
     position: relative;
-    
+    bottom:150px;
+    left:80px;
 }
 .logo10{
     width:  260px;
     height: 150px;
     position: relative;
+    bottom:310px;
+    left:1270px;
 }

@@ -1,0 +1,92 @@
+body{
+    background-image:url("foto/dia2.jpg");
+    height:1300px;
+    width:auto;
+}
+.Titulo{
+    font-family:'Roboto Condensed';
+    font-size: 80px;
+    position: relative;
+    left:300px;
+    color:black;
+}
+.Menu{
+    font-size:25px;
+    position: relative;
+    left: 230px; 
+}
+li{
+    display: inline-block;
+    list-style:none
+}
+button{
+    width:200px;
+    height:100px;
+    cursor:pointer;
+    border:none;
+    font-size:20px;
+}
+.Menu1{
+border:1px solid green;
+color:green;
+}
+.Menu1:hover{
+    background-color:green;
+    color:white;
+}
+.Menu2{
+    border:1px solid blue;
+    color:blue;
+}
+.Menu2:hover{
+    background-color: blue;
+    color:white;
+}
+.Menu3{
+    border:1px solid red;
+    color:red;
+}
+.Menu3:hover{
+    background-color:red;
+    color:white;
+}
+section{
+    border:black 1px solid;
+    width:1200px;
+    height:1000px;
+    text-align: center;
+}
+.nombre{
+    height:100px;
+    width:500px;
+    font-size:30px;
+}
+.email{
+    height:100px;
+    width:500px;
+    font-size:30px;
+}
+.texto{
+    height:100px;
+    width:500px;
+    font-size:30px;
+}
+.btn{
+    height:60px;
+    width:100px;
+    letter-spacing:2px;
+    display: inline-block;
+    transition:0.2s;
+}
+.btn:hover{
+    background:#a945c7;
+    box-shadow: 0 0 10px #a945c7, 0 0 40px #a945c7, 0 0 80px #a945c7;
+    transition-delay:0.2s;    
+}
+.formulario{
+    width: 800px;
+    height:500px;
+    border:1px solid black;
+    position: relative;
+    left:200px;
+}
