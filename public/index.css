@@ -1,145 +1,211 @@
 body{
-    background-image:url("foto/dia2.jpg");
-    height:1000px;
+    background-color: black;
+    width:800px;
+}
+.encabezado{
+    background-color: black;
+    height: auto;
+    width: auto;
+    position: relative;
+    bottom: 40px;
 }
 .Titulo{
-    font-family:'Roboto Condensed';
-    font-size: 80px;
+    color:white;
     position: relative;
-    left:300px;
-    color:black;
-}
-.Menu{
-    font-size:25px;
-    position: relative;
-    left: 240px; 
+    top:30px;
+    font-size:30px;
 }
 li{
-    display: inline-block;
-    list-style:none
+    display:inline;
+    position: relative;
+    left:1100px;
 }
-button{
-    width:200px;
-    height:100px;
-    cursor:pointer;
-    border:none;
+.menu{
+    list-style-type: none;
+}
+.Menu1, .Menu2, .Menu3, .Menu4 {
+    color:white;
+    background: black;
     font-size:20px;
 }
-.Menu1{
-border:1px solid green;
-color:green;
-}
-.Menu1:hover{
-    background-color:green;
-    color:white;
-}
-.Menu2{
-    border:1px solid blue;
-    color:blue;
-}
-.Menu2:hover{
-    background-color: blue;
-    color:white;
-}
-.Menu3{
-    border:1px solid red;
-    color:red;
-}
-.Menu3:hover{
-    background-color:red;
-    color:white;
-}
-section{
-    border:black 1px solid;
-    width:1200px;
-    height:1000px;
-}
-aside{
-    border:1px solid black;
-    width:300px;
-    height:1000px;
+.fondo1{
+    max-width:1600px;
     position: relative;
-    bottom:1000px;
-    left:1210px; 
+    bottom:60px;
 }
-footer{
-    position: relative;
-    height:200px;
-    bottom:1000px;
-    width: auto;
-    border:1px solid black;
-    background:#343434;
+#inicio{
+    font-size:50px;
     color:white;
+    position: relative;
+    left:650px;
+    bottom:1000px;
+}
+#acerca{
+    color:white;
+    font-size: 50px;;
+    text-align:center;
+
+}
+.parrafo{
+    color: white;
+    font-size:20px;
+}
+.acerca-de-mi{
+    width: 350px;
+    height:auto;
+    position: relative;
+    left:600px;
+    bottom:200px;
 }
 .logo0{
     width:  260px;
     height: 150px;
-    position: relative;
-    right:70px;
+    position:relative;
+    bottom:600px;
 }
 .logo1{
     width:  260px;
     height: 150px;
-    position:relative;
-    right:200px;
+    position: relative;
+    bottom:600px;
 }
-.logo2{
-    width:  260px;
-    height: 150px;
-    position:relative;
-    right:330px;
-}
-.logo3{
-    width:  260px;
-    height: 150px;
-    position:relative;
-    right:460px;
-}
-.logo4{
-    width:  260px;
-    height: 150px;
-    position:relative;
-    right:600px;
-}
-.logo5{
-    width:  260px;
-    height: 150px;
-    position:relative;
-    bottom:150px;
-    left:600px;
-}
-.logo6{
+.logo2{ 
     width:  260px;
     height: 150px;
     position: relative;
-    bottom:150px;
-    left:480px;
+    bottom:600px;
+    left:400px;
+}
+.logo3{ 
+    width:  260px;
+    height: 150px;
+    position: relative;
+    bottom:600px;
+}
+.logo4{ 
+    width:  260px;
+    height: 150px;
+    position: relative;
+    bottom:600px;
+}
+.logo5{ 
+    width:  260px;
+    height: 150px;
+    position: relative;
+    bottom:750px;
+    left:600px;
+}
+.logo6{ 
+    width:  260px;
+    height: 150px;
+    position: relative;
+    bottom:600px;
 }
 .logo7{ 
     width:  260px;
     height: 150px;
     position: relative;
-    bottom:150px;
-    left:350px;
+    bottom:600px;
 }
-.logo8{
+.logo8{ 
     width:  260px;
     height: 150px;
     position: relative;
-    bottom:150px;
-    left:220px;
+    bottom:750px;
+    left:400px;
 }
-.logo9{
+.logo9{ 
     width:  260px;
     height: 150px;
     position: relative;
-    bottom:150px;
-    left:80px;
+    left:930px;
+    bottom:750px;
 }
-.logo10{
+.logo10{ 
     width:  260px;
     height: 150px;
     position: relative;
-    bottom:310px;
-    left:1270px;
+    left:870px;
+bottom:900px;}
+.proy{
+    position: relative;
+    left:600px;
+    bottom:600px;
+}
+#proyectos{
+    color:white;
+    font-size:50px;
+}
+.pro1{
+    width:300px;
+    height: 200px;
+    position: relative;
+    bottom:500px;
+}
+.pro2{
+    width:300px;
+    height: 200px;
+    position: relative;
+    bottom:500px;
+    left:200px;
+}
+.pro3{
+    width:300px;
+    height: 200px;
+    position: relative;
+    bottom:500px
+}
+.pro4{
+    width:300px;
+    height: 200px;
+    position: relative;
+    bottom:500px
+}
+.pro5{
+    width:300px;
+    height: 200px;
+    position: relative;
+    bottom:500px
+}
+.pro6{
+    width:300px;
+    height: 200px;
+    position: relative;
+    bottom:500px
+}
+.pro7{
+    width:300px;
+    height: 200px;
+    position: relative;
+    bottom:500px
+}
+.pro8{
+    width:300px;
+    height: 200px;
+    position: relative;
+    bottom:500px
+}
+.pro9{
+    width:300px;
+    height: 200px;
+    position: relative;
+    bottom:500px
+}
+.pro10{
+    width:300px;
+    height: 200px;
+    position: relative;
+    bottom:500px
+}
+.pro11{
+    width:300px;
+    height: 200px;
+    position: relative;
+    bottom:500px
+}
+.pro12{
+    width:300px;
+    height: 200px;
+    position: relative;
+    bottom:500px
 }
