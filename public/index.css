@@ -147,65 +147,92 @@ bottom:900px;}
     height: 200px;
     position: relative;
     bottom:500px;
-    left:200px;
+    left:250px;
 }
 .pro3{
     width:300px;
     height: 200px;
     position: relative;
-    bottom:500px
+    bottom: 700px;
+    left:1200px;
 }
 .pro4{
     width:300px;
     height: 200px;
     position: relative;
-    bottom:500px
+    bottom:300px;
+    left:896px;
 }
 .pro5{
     width:300px;
     height: 200px;
     position: relative;
-    bottom:500px
+    bottom:500px;
 }
 .pro6{
     width:300px;
     height: 200px;
     position: relative;
-    bottom:500px
+    bottom:500px;
+    left:250px
+    ;
 }
 .pro7{
     width:300px;
     height: 200px;
     position: relative;
-    bottom:500px
+    bottom:300px;
+    left:550px;
 }
 .pro8{
     width:300px;
     height: 200px;
     position: relative;
-    bottom:500px
+    bottom:300px;
+    left:890px;
 }
 .pro9{
     width:300px;
     height: 200px;
     position: relative;
-    bottom:500px
+    bottom:500px;
 }
 .pro10{
     width:300px;
     height: 200px;
     position: relative;
-    bottom:500px
+    bottom:100px;
+    right:320px;
 }
 .pro11{
     width:300px;
     height: 200px;
     position: relative;
-    bottom:500px
+    bottom:300px;
+    left:550px;
 }
 .pro12{
     width:300px;
     height: 200px;
     position: relative;
-    bottom:500px
+    bottom:300px;
+    left:890px;
+}
+.form{
+    height:auto;
+    width:auto;
+    border:1px solid white;
+    text-align: center;
+    position: relative;
+    left:350px;
+    bottom:200px;
+}
+#contacto{
+    font-size:50px;
+    color:white;
+    position: relative;
+
+}
+form{
+    color:white;
 }
